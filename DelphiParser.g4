@@ -51,7 +51,7 @@ block
 	|	assemblerStatement
 	;
 exportsStmt		
-	:	EXPORTS exportsItem (',' exportsItem)*
+	:	EXPORTS exportsItem (COMMA exportsItem)*
 	;
 exportSpecifier
 	:	(INDEX | NAME)? expression

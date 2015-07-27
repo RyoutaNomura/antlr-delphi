@@ -36,7 +36,7 @@ FINALLY			:	F I N A L L Y;
 NIL				:	N I L; 
 SHR				:	S H R; 
 CLASS			:	C L A S S; 
-FOR				:	F O R; 
+FOR				:	F O R;
 NOT				:	N O T; 
 STRING			:	S T R I N G; 
 CONST			:	C O N S T; 
